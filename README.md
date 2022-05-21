@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bismay</h1>
-<h3 align="center">A Javascript Bot Developer from India.</h3>
+<h3 align="center">A Javascript Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bismay&label=Profile%20views&color=0e75b6&style=flat" alt="bismay" /> </p>
 

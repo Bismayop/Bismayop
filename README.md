@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[Click Here](https://dsc.gg/devdc)**
 
-- ⚡ Fun fact **I am a Human lol.**
+- ⚡ Fun fact **I am a Human.**
 
 <h3 align="left">Join My Server:</h3>
 <p align="left">

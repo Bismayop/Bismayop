@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bismay&show_icons=true&locale=en" alt="bismay" /></p>
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/824999648422002728)
-![Discord Presence](https://lanyard.cnrad.dev/api/942015072006463498)
+![Discord Presence](https://lanyard.cnrad.dev/api/970580884908560395)

@@ -17,10 +17,10 @@
 
   <h3 align="left">Important Links:</h3>
 <a href="https://dsc.gg/devdc">
-    <img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Dc Development"/>
+    <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Dc Development"/>
   </a>
 <a href="https://youtube.com/channel/UCWDWeBKGKJSVkru16stjgmA">
-    <img src="https://img.shields.io/badge/Youtube-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Dc Development"/>
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Dc Development"/>
   </a>
 <a href="https://discord.com/api/oauth2/authorize?client_id=977587038452842546&permissions=8&scope=bot%20applications.commands">
     <img src="https://img.shields.io/badge/Public Bot-skyblue?style=for-the-badge&logo=discord&logoColor=white" alt="Uptimer"/>
